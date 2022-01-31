@@ -1,0 +1,15 @@
+{
+	"description": "<p>PLAYFREE Lo mejor en PS3.<p> Mas informacion en el canal de su creador, Este plugin es gratis.",
+	"author": "BRIAN-JESHUA",
+	"homepage": "",
+	"title": "PLAYFREE",
+	"synopsis": "Servidor de peliculas online.",
+	"version": "3.2",
+	"file": "PLAYFREE.js",
+	"showtimeVersion": "3.2",
+	"type": "ecmascript",
+	"id": "PLAYFREE",
+	"icon": "PLAYFREE.png",
+	"category": "tv",
+        "apiversion": 2
+}
