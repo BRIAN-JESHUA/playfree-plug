@@ -3,7 +3,7 @@
 	"plugins": [
 		{
 			"id": "PLAYFREE",
-			"version": "3.0",
+			"version": "3.3",
 			"type": "ecmascript",
 			"author": "BRIAN-JESHUA",
 			"showtimeVersion": "3.3",
