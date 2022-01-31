@@ -1,0 +1,127 @@
+{
+	"version": 1,
+	"plugins": [
+		{
+			"id": "PLAYFREE",
+			"version": "3.3",
+			"type": "ecmascript",
+			"author": "BRIAN-JESHUA",
+			"showtimeVersion": "3.3",
+			"title": "PLAYFREE",
+			"synopsis": "Servidor de peliculas online.",
+			"description": "<p>PLAYFREE Lo mejor en PS3.<p> Mas informacion en el canal de su creador, Este plugin es gratis.",
+			"homepage": "https://github.com/lprot/movian-plugin-onlinetv",
+			"category": "tv",
+			"downloadURL": "https://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/main/PLAYFREE.zip",
+			"icon": "http://plugins.movian.tv/data/ae355a1b81abebd76f1d3364d4f68c201d8750ef",
+			"popularity": 502836
+		}
+	],
+	"blacklist": [
+		{
+			"id": "4tube",
+			"version": "0.0.6"
+		},
+		{
+			"id": "4tube",
+			"version": "0.0.7"
+		},
+		{
+			"id": "4tube",
+			"version": "0.0.8"
+		},
+		{
+			"id": "4tube",
+			"version": "0.0.9"
+		},
+		{
+			"id": "4tube",
+			"version": "0.1.0"
+		},
+		{
+			"id": "4tube",
+			"version": "0.1.1"
+		},
+		{
+			"id": "cine.to",
+			"version": "0.1"
+		},
+		{
+			"id": "cine.to",
+			"version": "0.2"
+		},
+		{
+			"id": "cine.to",
+			"version": "0.3"
+		},
+		{
+			"id": "copydotcom",
+			"version": "0.2.2"
+		},
+		{
+			"id": "ex.ua",
+			"version": "0.8.6"
+		},
+		{
+			"id": "FreeArenaBG",
+			"version": "1.0.0"
+		},
+		{
+			"id": "FreeBGSubs",
+			"version": "1.0.0"
+		},
+		{
+			"id": "FreeFormula1",
+			"version": "1.0.1"
+		},
+		{
+			"id": "FreeZamunda",
+			"version": "1.0.0"
+		},
+		{
+			"id": "FreeZelka",
+			"version": "1.0.0"
+		},
+		{
+			"id": "ingfilm",
+			"version": "0.2.1"
+		},
+		{
+			"id": "ingfilm",
+			"version": "0.2.2"
+		},
+		{
+			"id": "ingfilm",
+			"version": "0.2.3"
+		},
+		{
+			"id": "kinox.to",
+			"version": "0.1a"
+		},
+		{
+			"id": "kinox.to",
+			"version": "0.2"
+		},
+		{
+			"id": "kinox.to",
+			"version": "0.2.1"
+		},
+		{
+			"id": "Movie4k",
+			"version": "0.9.7"
+		},
+		{
+			"id": "Movie4k",
+			"version": "0.9.8"
+		},
+		{
+			"id": "Movie4k",
+			"version": "0.9.9"
+		},
+		{
+			"id": "vimeo",
+			"version": "0.9"
+		}
+	],
+	"cc": "AR"
+}
